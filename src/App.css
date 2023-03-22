@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './components/Navbar.css';
+@import './components/AboutMe.css';
+@import './components/Projects.css';
+@import './components/ContactMe.css';
+@import './components/Footer.css';
+
